@@ -1,2 +1,2 @@
-# Git_Course
+## Git_Course
 Learn Git &amp; GitHub
